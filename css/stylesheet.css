@@ -1,15 +1,16 @@
 
  
  
- h1 {
- 	text-align: center;
- 	background-color: rgb(98, 147, 42);
- 	width: 30em;
- }
+h1 {
+	text-align: center;
+	background-color: rgb(98, 147, 42);
+	width: 20em;
+}
 
- body {
-    /*background-color: rgb(211,211,211);*Need to revise changing the front by element w/o applying to body*/
-    font-family: "arial"
+body {
+	/*background-color: rgb(211,211,211);*Need to revise changing the font by element w/o applying to body*/
+	font-family: "arial";
+	margin:0;
 }
 
 nav {
@@ -18,12 +19,17 @@ nav {
 	width: 20em;
 }
 
+nav ul {
+	padding-left: 25px;
+}
+
 article {
 	margin-left: 20px;
 }
 
 img {
-
 	width: 250px;
+	border: 5px solid green;
+	padding: 8px;
 }
 
