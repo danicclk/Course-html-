@@ -20,7 +20,7 @@ h1 {
 body {
 	/*background-color: rgb(211,211,211);*Need to revise changing the font by element w/o applying to body*/
 	font-family: "arial";
-	margin:0;
+	margin:2;
 }
 
 article {
